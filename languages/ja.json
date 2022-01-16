@@ -1,11 +1,11 @@
 {
-  "0coverTokenSizesName": "Token Sizes to not provide cover",
-  "3/4CoverTokenSizes": "Token Sizes to provide 3/4 cover",
-  "noDeadTokenSizes": "Token Sizes to not provide cover when at 0hp",
-  "halfDeadTokenSizes" :"Token Sizes to provide 1/2 cover when at 0hp",
-  "3/4DeadTokenSizes": "Token Sizes to provide 3/4 cover when at 0hp",
-  "fullDeadTokenSizes": "Token Sizes to provide full cover when at 0hp",
+  "0coverTokenSizesName": "遮蔽を提供しないコマのサイズ",
+  "3/4CoverTokenSizes": "3/4遮蔽を提供するコマのサイズ",
+  "noDeadTokenSizes": "0hpのとき、遮蔽を提供しないコマのサイズ",
+  "halfDeadTokenSizes" :"0hpのとき、1/2遮蔽を提供するコマのサイズ",
+  "3/4DeadTokenSizes": "0hpのとき、3/4遮蔽を提供するコマのサイズ",
+  "fullDeadTokenSizes": "0hpのとき、完全遮蔽を提供するコマのサイズ",
 
-  "CoverSizeHint": "Options: tiny, sm, med, lg, huge, grg. Separate with ','; dont use spaces"
+  "CoverSizeHint": "例：tiny,sm,med,lg,huge,grg（スペースを入れずカンマ（,）区切りで指定します）"
   
 }
